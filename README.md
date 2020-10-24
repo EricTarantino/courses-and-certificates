@@ -1,6 +1,6 @@
 # Courses and certificates
 
-The university courses which I have completet so far at RWTH Aachen are
+The university courses which I have completed so far at RWTH Aachen are
 
 <b>Computer science</b><br>
 Advanced internet technology<br>
