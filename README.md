@@ -4,7 +4,7 @@ This folder contains a collection of certificates of online courses that I have 
 
 <img src="https://github.com/EricTarantino/OnlineCertificates/blob/main/folders.png" alt="drawing" width="500"/>
 
-The university courses which I have completet so far included:
+The university courses which I have completet so far are
 
 <b>Computer science</b><br>
 Advanced internet technology<br>
