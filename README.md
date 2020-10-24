@@ -1,9 +1,5 @@
 # Courses and certificates
 
-The subfolders contains a collection of certificates of online courses that I have found interesting to complete.
-
-<img src="https://github.com/EricTarantino/OnlineCertificates/blob/main/folders.png" alt="drawing" width="500"/>
-
 The university courses which I have completet so far at RWTH Aachen are
 
 <b>Computer science</b><br>
@@ -46,8 +42,6 @@ French<br>
 Introduction into business accounting<br>
 Quantitative methods<br>
 
+The subfolders contains a collection of certificates of online courses that I have found interesting to complete.
 
-
-
-
-
+<img src="https://github.com/EricTarantino/OnlineCertificates/blob/main/folders.png" alt="drawing" width="500"/>
