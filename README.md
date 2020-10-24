@@ -6,7 +6,7 @@ This folder contains a collection of certificates of online courses that I have 
 
 The university courses which I have completet so far included:
 
-<b>Computer science</b>.
+<b>Computer science</b><br>
 Advanced internet technology<br>
 Analysis for computer science<br>
 Data communication and security<br>
@@ -27,7 +27,7 @@ Proseminar IT security<br>
 Proseminar data algorithms and society III<br>
 Systemprogramming<br>
 
-<b>Mathematics</b>
+<b>Mathematics</b><br>
 Analysis I<br>
 Analysis II<br>
 Analysis III<br>
@@ -40,7 +40,7 @@ Practical mathematics II<br>
 Practical numeric<br>
 Stochastic I<br>
 
-<b>Business</b>
+<b>Business</b><br>
 Business administration<br>
 French<br>
 Introduction into business accounting<br>
