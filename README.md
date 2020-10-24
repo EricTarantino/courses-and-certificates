@@ -7,43 +7,44 @@ This folder contains a collection of certificates of online courses that I have 
 The university courses which I have completet so far included:
 
 <b>Computer science</b>.
-Advanced internet technology
-Analysis for computer science
-Business administration
-Data communication and security
-Data structures and algorithms
-Databases and informationsystems
-Discrete structures
-French
-Introduction applied stochastics
-Introduction business accounting
-Introduction data mining algorithms
-Introduction software technology
-Introduction technical computer science
-Linear Algebra
-Mentoring informatics
-Numerical calculations
-Operating systems and system software
-Practical software project data mining
-Programming
-Proseminar IT security
-Proseminar data algorithms and society III
-Quantitative methods
-Systemprogramming
+Advanced internet technology<br>
+Analysis for computer science<br>
+Data communication and security<br>
+Data structures and algorithms<br>
+Databases and informationsystems<br>
+Discrete structures<br>
+Introduction into applied stochastics<br>
+Introduction into data mining algorithms<br>
+Introduction into software technology<br>
+Introduction into technical computer science<br>
+Linear Algebra<br>
+Mentoring informatics<br>
+Numerical calculations<br>
+Operating systems and system software<br>
+Practical software project data mining<br>
+Programming<br>
+Proseminar IT security<br>
+Proseminar data algorithms and society III<br>
+Systemprogramming<br>
 
 <b>Mathematics</b>
-Analysis I
-Analysis II
-Analysis III
-Compact course C++
-Linear algebra I
-Mathematical basics
-Number theory
-Practical mathematics I
-Practical mathematics II
-Practical numeric
-Stochastic I
+Analysis I<br>
+Analysis II<br>
+Analysis III<br>
+Compact course C++<br>
+Linear algebra I<br>
+Mathematical basics<br>
+Number theory<br>
+Practical mathematics I<br>
+Practical mathematics II<br>
+Practical numeric<br>
+Stochastic I<br>
 
+<b>Business</b>
+Business administration<br>
+French<br>
+Introduction into business accounting<br>
+Quantitative methods<br>
 
 
 
