@@ -4,7 +4,7 @@ This folder contains a collection of certificates of online courses that I have 
 
 <img src="https://github.com/EricTarantino/OnlineCertificates/blob/main/folders.png" alt="drawing" width="500"/>
 
-The university courses which I have completet so far are
+The university courses which I have completet so far at RWTH Aachen are
 
 <b>Computer science</b><br>
 Advanced internet technology<br>
