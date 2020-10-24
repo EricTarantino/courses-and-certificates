@@ -20,7 +20,7 @@ Operating systems and system software<br>
 Practical software project data mining<br>
 Programming<br>
 Proseminar IT security<br>
-Proseminar data algorithms and society III<br>
+Seminar data algorithms and society III<br>
 Systemprogramming<br>
 
 <b>Mathematics</b><br>
