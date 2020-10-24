@@ -42,6 +42,6 @@ French<br>
 Introduction into business accounting<br>
 Quantitative methods<br>
 
-The subfolders contains a collection of certificates of online courses that I have found interesting to complete.
+<b>The subfolders contains a collection of certificates of online courses that I have found interesting to complete</b>
 
 <img src="https://github.com/EricTarantino/OnlineCertificates/blob/main/folders.png" alt="drawing" width="500"/>
