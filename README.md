@@ -47,7 +47,7 @@ Quantitative methods<br>
 <img src="https://github.com/EricTarantino/OnlineCertificates/blob/main/folders.png" alt="drawing" width="500"/>
 
 
-I enjoy online learning and I further obtained certificates in the following courses
+I enjoy online learning and I obtained certificates in the following courses
 
 Business<br>
 10.06.2018 - Advanced Stock Trading Course + Strategies - 9h<br>
